@@ -1,0 +1,19 @@
+Fluff 	= (0   0  , 38  38)
+SoftBig 	= (38  0  , 75  38)
+SoftSmall 	= (75  0  , 113 38)
+LowRider	= (113 0  , 150 38)
+
+Spider	= (0   38 , 38  75)
+SpiderFade  = (38  38 , 75  75)
+SpiderSoft  = (75  38 , 113 75)
+SpiderSwirl = (113 38 , 150 75)
+
+SpiderCrawl	= (0   75 , 38  113)
+Faint		= (38  75 , 75  113)
+Sharp1	= (75  75 , 113 113)
+Sharp2	= (113 75 , 150 113)
+
+Sharp3	= (0   113, 38  150)
+Sharp4	= (38  113, 75  150)
+Sharp5	= (75  113, 113 150)
+Sharp6	= (113 113, 150 150)

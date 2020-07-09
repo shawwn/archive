@@ -1,0 +1,90 @@
+Session start.
+Loading settings... 
+Settings WARNING: Variable [Width] with value [1024] unhandled.
+Settings WARNING: Variable [Height] with value [768] unhandled.
+Settings WARNING: Variable [Windowed] with value [1] unhandled.
+Settings WARNING: Variable [Adapter] with value [0] unhandled.
+Settings WARNING: Variable [DeviceType] with value [Hardware] unhandled.
+Settings WARNING: Variable [ForceVertexProcessing] with value [Hardware] unhandled.
+Settings WARNING: Variable [ForceDisplayModeBits] with value [0] unhandled.
+Settings WARNING: Variable [ForceDepthBufferBits] with value [0] unhandled.
+Settings WARNING: Variable [DebugVertexShaders] with value [0] unhandled.
+Settings WARNING: Variable [UseDynamicLighting] with value [1] unhandled.
+Settings WARNING: Variable [NumDynamicLights] with value [20] unhandled.
+Settings WARNING: Variable [Rate] with value [1] unhandled.
+Settings WARNING: Variable [Particles] with value [30] unhandled.
+Settings WARNING: Variable [XRot] with value [5] unhandled.
+Settings WARNING: Variable [YRot] with value [7] unhandled.
+Settings WARNING: Variable [ParticleResponseX] with value [0] unhandled.
+Settings WARNING: Variable [ParticleResponseY] with value [0] unhandled.
+Settings WARNING: Variable [ParticleResponseZ] with value [0] unhandled.
+Settings WARNING: Variable [FireworksParticleSize] with value [500] unhandled.
+Settings WARNING: Variable [NumFireworksParticles] with value [100] unhandled.
+Settings WARNING: Variable [PlaneSize] with value [10000] unhandled.
+Settings WARNING: Variable [FireworksShellDensity] with value [1.0] unhandled.
+Settings WARNING: Variable [FireworksShellGroup] with value [2] unhandled.
+Settings WARNING: Variable [FireworksShellLinearDampening] with value [0.0] unhandled.
+Settings WARNING: Variable [FireworksShellAngularDampening] with value [5.0] unhandled.
+Settings WARNING: Variable [FireworksShellSphereRadius] with value [5.0] unhandled.
+Settings WARNING: Variable [FireworksShellInitialVelocity] with value [150.0] unhandled.
+Settings WARNING: Variable [FireworksShellChain] with value [0] unhandled.
+Settings WARNING: Variable [FireworksParticleDensity] with value [1.0] unhandled.
+Settings WARNING: Variable [FireworksParticleGroup] with value [2] unhandled.
+Settings WARNING: Variable [FireworksParticleLinearDampening] with value [0.0] unhandled.
+Settings WARNING: Variable [FireworksParticleAngularDampening] with value [5.0] unhandled.
+Settings WARNING: Variable [FireworksParticleSphereRadius] with value [5.0] unhandled.
+Settings WARNING: Variable [FireworksParticleLife] with value [50.0] unhandled.
+Settings WARNING: Variable [ServerAddress] with value [127.0.0.1] unhandled.
+Settings WARNING: Variable [ServerPort] with value [31337] unhandled.
+Settings WARNING: Variable [Username] with value [Any] unhandled.
+Settings WARNING: Variable [Password] with value [Any] unhandled.
+Initializing Direct3D... 
+#################################
+Adapter [0] information:
+Name:				[NVIDIA GeForce Go 7900 GS]
+Driver:				[nv4_disp.dll]
+Driver Version:			[1688909990469903]
+Maximum Resolution:		[1920x1200]
+Maximum Display Format:		[D3DFMT_X8R8G8B8]
+Maximum Depth Buffer Format:	[D3DFMT_D24S8]
+Maximum Texture Format:		[D3DFMT_A8R8G8B8]
+Using Device Type:		[D3DDEVTYPE_HAL]
+#################################
+Using adapter [0]
+Using hardware vertex processing.
+BillboardInterface: Destroying.
+Effect [Data/Shaders/white.fx]: Loaded.
+Effect [Data/Shaders/new_material_4.fx]: Loaded.
+Effect [Data/Shaders/plane.fx]: Loaded.
+Effect [Data/Shaders/skydome.fx]: Loaded.
+Q3BSP: Loading [Data/Maps/woot.bsp]...
+Q3BSP [Data/Maps/woot.bsp]:  Loaded [7] textures.
+Q3BSP [Data/Maps/woot.bsp]:  Loaded [1788] planes.
+Q3BSP [Data/Maps/woot.bsp]:  Loaded [384] nodes.
+Q3BSP [Data/Maps/woot.bsp]:  Loaded [386] leafs.
+Q3BSP [Data/Maps/woot.bsp]:  Loaded [723] leaf faces.
+Q3BSP [Data/Maps/woot.bsp]:  Loaded [320] leaf brushes.
+Q3BSP [Data/Maps/woot.bsp]:  Loaded [1] models.
+Q3BSP [Data/Maps/woot.bsp]:  Loaded [112] brushes.
+Q3BSP [Data/Maps/woot.bsp]:  Loaded [1826] brush sides.
+Q3BSP [Data/Maps/woot.bsp]:  Loaded [2305] vertices.
+Q3BSP [Data/Maps/woot.bsp]:  Loaded [7554] mesh vertices.
+Q3BSP [Data/Maps/woot.bsp]:  Loaded [0] effects.
+Q3BSP [Data/Maps/woot.bsp]:  Loaded [441] faces.
+Q3BSP [Data/Maps/woot.bsp]:  Loaded [2] lightmaps.
+Q3BSP [Data/Maps/woot.bsp]: Loaded.  Fixing position data...
+Q3BSP [Data/Maps/woot.bsp]: Creating vertex indices...
+TextureInterface ERROR: Could not load [Data/textures/skin/chapthroatooz.jpg], filename is not a valid file.
+TextureInterface ERROR: Could not load [Data/textures/common/white.jpg], filename is not a valid file.
+Effect [Data/Shaders/SkinnedMesh.fx]: Loaded.
+Mesh  PERFORMANCE WARNING: The bones in this model exceed the maximum registers in a Vertex Shader 1.1 profile.
+Mesh Data/Models/tiny_4anim.x: Loaded.
+Connecting to server [127.0.0.1] on port [31337]
+Player [Any]: Added at position[0,60,0]
+Player [Any]: Added at position[-11.0002,4.95,137.01]
+Networking: Stop called by [GameInterface::Deinitialize()]
+Session end.
+Server ERROR: Client[127.0.0.1] read() returned <0.
+Networking: Stop called by [Read()]
+Networking: Stop called by [GameInterface::Deinitialize()]
+Session end.

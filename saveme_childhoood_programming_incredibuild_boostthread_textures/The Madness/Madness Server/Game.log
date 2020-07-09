@@ -1,0 +1,65 @@
+Settings WARNING: Variable [Width] with value [1024] unhandled.
+Settings WARNING: Variable [Height] with value [768] unhandled.
+Settings WARNING: Variable [Windowed] with value [1] unhandled.
+Settings WARNING: Variable [Adapter] with value [0] unhandled.
+Settings WARNING: Variable [DeviceType] with value [Hardware] unhandled.
+Settings WARNING: Variable [ForceVertexProcessing] with value [Hardware] unhandled.
+Settings WARNING: Variable [ForceDisplayModeBits] with value [0] unhandled.
+Settings WARNING: Variable [ForceDepthBufferBits] with value [0] unhandled.
+Settings WARNING: Variable [DebugVertexShaders] with value [0] unhandled.
+Settings WARNING: Variable [UseDynamicLighting] with value [1] unhandled.
+Settings WARNING: Variable [NumDynamicLights] with value [20] unhandled.
+Settings WARNING: Variable [Rate] with value [1] unhandled.
+Settings WARNING: Variable [Particles] with value [30] unhandled.
+Settings WARNING: Variable [XRot] with value [5] unhandled.
+Settings WARNING: Variable [YRot] with value [7] unhandled.
+Settings WARNING: Variable [ParticleResponseX] with value [0] unhandled.
+Settings WARNING: Variable [ParticleResponseY] with value [0] unhandled.
+Settings WARNING: Variable [ParticleResponseZ] with value [0] unhandled.
+Settings WARNING: Variable [FireworksParticleSize] with value [500] unhandled.
+Settings WARNING: Variable [NumFireworksParticles] with value [100] unhandled.
+Settings WARNING: Variable [PlaneSize] with value [10000] unhandled.
+Settings WARNING: Variable [FireworksShellDensity] with value [1.0] unhandled.
+Settings WARNING: Variable [FireworksShellGroup] with value [2] unhandled.
+Settings WARNING: Variable [FireworksShellLinearDampening] with value [0.0] unhandled.
+Settings WARNING: Variable [FireworksShellAngularDampening] with value [5.0] unhandled.
+Settings WARNING: Variable [FireworksShellSphereRadius] with value [5.0] unhandled.
+Settings WARNING: Variable [FireworksShellInitialVelocity] with value [150.0] unhandled.
+Settings WARNING: Variable [FireworksShellChain] with value [0] unhandled.
+Settings WARNING: Variable [FireworksParticleDensity] with value [1.0] unhandled.
+Settings WARNING: Variable [FireworksParticleGroup] with value [2] unhandled.
+Settings WARNING: Variable [FireworksParticleLinearDampening] with value [0.0] unhandled.
+Settings WARNING: Variable [FireworksParticleAngularDampening] with value [5.0] unhandled.
+Settings WARNING: Variable [FireworksParticleSphereRadius] with value [5.0] unhandled.
+Settings WARNING: Variable [FireworksParticleLife] with value [50.0] unhandled.
+Settings WARNING: Variable [ServerAddress] with value [127.0.0.1] unhandled.
+Settings WARNING: Variable [ServerPort] with value [31337] unhandled.
+Settings WARNING: Variable [Username] with value [Any] unhandled.
+Settings WARNING: Variable [Password] with value [Any] unhandled.
+Server: Session start.
+Server listening on port [31337]
+Session start.
+Loading settings... 
+Initializing Direct3D... 
+#################################
+Adapter [0] information:
+Name:				[NVIDIA GeForce Go 7900 GS]
+Driver:				[nv4_disp.dll]
+Driver Version:			[1688909990469903]
+Maximum Resolution:		[1920x1200]
+Maximum Display Format:		[D3DFMT_X8R8G8B8]
+Maximum Depth Buffer Format:	[D3DFMT_D24S8]
+Maximum Texture Format:		[D3DFMT_A8R8G8B8]
+Using Device Type:		[D3DDEVTYPE_HAL]
+#################################
+Using adapter [0]
+Using hardware vertex processing.
+Effect [Data/Shaders/white.fx]: Loaded.
+Effect [Data/Shaders/plane.fx]: Loaded.
+Session end.
+Client [127.0.0.1]: Connected.
+Client[127.0.0.1]: Logged in.  Player [Any] created with GUID [0].
+Client [127.0.0.1]: Connected.
+Client[127.0.0.1]: Logged in.  Player [Any] created with GUID [10].
+Client [127.0.0.1]: Removed.
+Server: Session end.

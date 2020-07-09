@@ -1,0 +1,30 @@
+Hey babe :D
+
+Okay, you can walk around the 3D map thing.
+
+Step 1) Download madness.exe into the same directory as the one you made to view my game.  That is... Replace the current madness.exe (which is in /The Madness/Madness/) with the one I have in this folder.
+
+Step 2) Put final.jpg in /The Madness/Madness/Data/Heightmaps/
+
+Step 3) Run program.
+
+Here's where things get a little tricky...
+
+
+I have included "finalblurry.jpg" with it. This is an image where the contour lines are smoothed..so it looks more like a real landscape than just a contour line extrusion.  What you have to do is, replace final.jpg with finalblurry.jpg... So, that means, delete or move final.jpg out of the Heightmaps folder, then put in finalblurry.jpg, then rename it to final.jpg.  The program will load any image named "final.jpg".
+
+Hope it worked okay.
+
+Hope you can use this somehow to seem like an ub3r l33t ninja to your classmates.
+
+I <3 you so much.
+
+---------<--()_)
+-------<--()_)
+---------<--()_)
+----------<--()_)
+---------<--()_)
+---------<--()_)
+----------<--()_)
+
+Marshmellow2u

@@ -1,0 +1,23 @@
+Resource [GUIDManager] with type [MANAGER_GUID]: Constructed.
+Resource [MadnessEngine] with type [ENGINE_MADNESS]: Constructed.
+Session start.
+Resource [MadnessEngine] with type [ENGINE_MADNESS]: initializing...
+#################################
+Adapter [0] information:
+Name:				[RADEON X800 PRO]
+Driver:				[ati2dvag.dll]
+Driver Version:			[1688909990467982]
+Maximum Resolution:		[1792x1344]
+Maximum Display Format:		[D3DFMT_X8R8G8B8]
+Maximum Depth Buffer Format:	[D3DFMT_D24S8]
+Maximum Texture Format:		[D3DFMT_A8R8G8B8]
+Using Device Type:		[D3DDEVTYPE_HAL]
+#################################
+Using adapter [0]
+Adapter's display format has been forced to 32-bit (X8R8G8B8) due to the settings in Settings.dat
+Adapter's depth buffer format has been force to 24-bit (D24S8) due to the settings in Settings.dat
+Using hardware vertex processing.
+Resource [MadnessEngine] with type [ENGINE_MADNESS]: initialization complete.
+Resource [MadnessEngine] with type [ENGINE_MADNESS]: Destructed.
+Resource [GUIDManager] with type [MANAGER_GUID]: Destructed.
+Session end.

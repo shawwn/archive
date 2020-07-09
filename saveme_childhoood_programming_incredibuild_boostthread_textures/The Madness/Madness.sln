@@ -1,0 +1,44 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Madness", "Madness\Madness.vcproj", "{2889B9E3-1248-44E6-9D00-03156C2DB5F1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Madness Server", "Madness Server\Madness Server.vcproj", "{D658C7C7-4810-427A-8A2C-0F36EE4BC2D7}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Placeholder", "Placeholder\Placeholder.vcproj", "{51AD00CA-994E-4AF3-A598-A760B00DF2ED}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+		ReleaseOptimal = ReleaseOptimal
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{2889B9E3-1248-44E6-9D00-03156C2DB5F1}.Debug.ActiveCfg = Debug|Win32
+		{2889B9E3-1248-44E6-9D00-03156C2DB5F1}.Debug.Build.0 = Debug|Win32
+		{2889B9E3-1248-44E6-9D00-03156C2DB5F1}.Release.ActiveCfg = Release|Win32
+		{2889B9E3-1248-44E6-9D00-03156C2DB5F1}.Release.Build.0 = Release|Win32
+		{2889B9E3-1248-44E6-9D00-03156C2DB5F1}.ReleaseOptimal.ActiveCfg = Release|Win32
+		{2889B9E3-1248-44E6-9D00-03156C2DB5F1}.ReleaseOptimal.Build.0 = Release|Win32
+		{D658C7C7-4810-427A-8A2C-0F36EE4BC2D7}.Debug.ActiveCfg = Debug|Win32
+		{D658C7C7-4810-427A-8A2C-0F36EE4BC2D7}.Debug.Build.0 = Debug|Win32
+		{D658C7C7-4810-427A-8A2C-0F36EE4BC2D7}.Release.ActiveCfg = Release|Win32
+		{D658C7C7-4810-427A-8A2C-0F36EE4BC2D7}.Release.Build.0 = Release|Win32
+		{D658C7C7-4810-427A-8A2C-0F36EE4BC2D7}.ReleaseOptimal.ActiveCfg = Release|Win32
+		{D658C7C7-4810-427A-8A2C-0F36EE4BC2D7}.ReleaseOptimal.Build.0 = Release|Win32
+		{51AD00CA-994E-4AF3-A598-A760B00DF2ED}.Debug.ActiveCfg = Debug|Win32
+		{51AD00CA-994E-4AF3-A598-A760B00DF2ED}.Debug.Build.0 = Debug|Win32
+		{51AD00CA-994E-4AF3-A598-A760B00DF2ED}.Release.ActiveCfg = Release|Win32
+		{51AD00CA-994E-4AF3-A598-A760B00DF2ED}.Release.Build.0 = Release|Win32
+		{51AD00CA-994E-4AF3-A598-A760B00DF2ED}.ReleaseOptimal.ActiveCfg = Release|Win32
+		{51AD00CA-994E-4AF3-A598-A760B00DF2ED}.ReleaseOptimal.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

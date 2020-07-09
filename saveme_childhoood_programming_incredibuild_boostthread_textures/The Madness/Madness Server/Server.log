@@ -1,0 +1,9 @@
+Server: Session start.
+Server listening on port [31337]
+Client [127.0.0.1]: Connected.
+Client[127.0.0.1]: Logged in.  Player [Any] created with GUID [0].
+Client [127.0.0.1]: Connected.
+Client[127.0.0.1]: Logged in.  Player [Any] created with GUID [57].
+Server ERROR: Client[127.0.0.1] read() returned <0.
+Client [127.0.0.1]: Removed.
+Client [127.0.0.1]: Removed.

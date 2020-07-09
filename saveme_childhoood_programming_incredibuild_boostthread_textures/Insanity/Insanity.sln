@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Common", "Common\Common.vcproj", "{D3D69345-2DB0-4611-89D6-404920C58BB1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Madness", "Madness\Madness.csproj", "{DA5DFF91-9EE5-4540-89B0-07D742EE9BFB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D3D69345-2DB0-4611-89D6-404920C58BB1} = {D3D69345-2DB0-4611-89D6-404920C58BB1}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delirium", "Delirium\Delirium.csproj", "{BA094B3F-0878-4876-B659-C6BD65C99380}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D3D69345-2DB0-4611-89D6-404920C58BB1} = {D3D69345-2DB0-4611-89D6-404920C58BB1}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{D3D69345-2DB0-4611-89D6-404920C58BB1}.Debug.ActiveCfg = Debug|Win32
+		{D3D69345-2DB0-4611-89D6-404920C58BB1}.Debug.Build.0 = Debug|Win32
+		{D3D69345-2DB0-4611-89D6-404920C58BB1}.Release.ActiveCfg = Release|Win32
+		{D3D69345-2DB0-4611-89D6-404920C58BB1}.Release.Build.0 = Release|Win32
+		{DA5DFF91-9EE5-4540-89B0-07D742EE9BFB}.Debug.ActiveCfg = Debug|.NET
+		{DA5DFF91-9EE5-4540-89B0-07D742EE9BFB}.Debug.Build.0 = Debug|.NET
+		{DA5DFF91-9EE5-4540-89B0-07D742EE9BFB}.Release.ActiveCfg = Release|.NET
+		{DA5DFF91-9EE5-4540-89B0-07D742EE9BFB}.Release.Build.0 = Release|.NET
+		{BA094B3F-0878-4876-B659-C6BD65C99380}.Debug.ActiveCfg = Debug|.NET
+		{BA094B3F-0878-4876-B659-C6BD65C99380}.Debug.Build.0 = Debug|.NET
+		{BA094B3F-0878-4876-B659-C6BD65C99380}.Release.ActiveCfg = Release|.NET
+		{BA094B3F-0878-4876-B659-C6BD65C99380}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
